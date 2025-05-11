@@ -2,6 +2,12 @@
 
 This project demonstrates Morse code communication using an RP2040 Zero microcontroller. The program displays the word "KATE" in Morse code using the built-in NeoPixel LED.
 
+## Example
+
+Here's an example of the morse code animation in action:
+
+![Morse Code Example](/images/morse_KATE_example.gif)
+
 ## Prerequisites
 
 - RP2040 Zero microcontroller

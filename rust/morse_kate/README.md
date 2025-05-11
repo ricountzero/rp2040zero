@@ -2,6 +2,12 @@
 
 This project is a Rust-based firmware for the RP2040 Zero board, featuring WS2812 LED control. It is built using the [Embassy](https://github.com/embassy-rs/embassy) framework, a modern embedded framework for Rust that provides async/await support and hardware abstraction layers.
 
+## Example
+
+Here's an example of the morse code animation in action:
+
+![Morse Code Example](/images/morse_KATE_example.gif)
+
 ## Prerequisites for Fedora Linux
 
 Install the following packages:
