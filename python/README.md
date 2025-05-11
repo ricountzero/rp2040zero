@@ -5,7 +5,7 @@ This project demonstrates Morse code communication using an RP2040 Zero microcon
 ## Prerequisites
 
 - RP2040 Zero microcontroller
-- Thonny IDE installed on your computer
+- Thonny IDE installed on your computer ([Download from thonny.org](https://thonny.org/))
 - USB cable to connect the RP2040 Zero to your computer
 
 ## Setup Instructions
